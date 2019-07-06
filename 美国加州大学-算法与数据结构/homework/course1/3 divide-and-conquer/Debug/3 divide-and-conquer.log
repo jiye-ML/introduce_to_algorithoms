@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/4/27 16:14:46。
+     1>项目“H:\study\algorithm\美国加州大学-算法与数据结构\homework\course1\3 divide-and-conquer\3 divide-and-conquer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt closest.cpp
+         closest.cpp
+     1>h:\study\algorithm\美国加州大学-算法与数据结构\homework\course1\3 divide-and-conquer\closest.cpp(1): fatal error C1021: 无效的预处理器命令“Uses”
+     1>已完成生成项目“H:\study\algorithm\美国加州大学-算法与数据结构\homework\course1\3 divide-and-conquer\3 divide-and-conquer.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.12

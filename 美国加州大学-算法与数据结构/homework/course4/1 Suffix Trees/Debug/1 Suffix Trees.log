@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/5/16 9:16:03。
+     1>项目“F:\美国加州大学-算法与数据结构\homework\course4\1 Suffix Trees\1 Suffix Trees.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt trie_matching\trie_matching.cpp trie_matching_extended\trie_matching_extended.cpp
+         trie_matching_extended.cpp
+     1>f:\美国加州大学-算法与数据结构\homework\course4\1 suffix trees\trie_matching_extended\trie_matching_extended.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+         trie_matching.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\美国加州大学-算法与数据结构\homework\course4\1 Suffix Trees\Debug\1 Suffix Trees.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\美国加州大学-算法与数据结构\homework\course4\1 Suffix Trees\Debug\1 Suffix Trees.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\美国加州大学-算法与数据结构\homework\course4\1 Suffix Trees\Debug\1 Suffix Trees.lib" /MACHINE:X86 Debug\testFindChar.obj
+         Debug\trie.obj
+         Debug\trie_matching.obj
+         Debug\trie_matching_extended.obj
+         1 Suffix Trees.vcxproj -> F:\美国加州大学-算法与数据结构\homework\course4\1 Suffix Trees\Debug\1 Suffix Trees.exe
+     1>已完成生成项目“F:\美国加州大学-算法与数据结构\homework\course4\1 Suffix Trees\1 Suffix Trees.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.39
